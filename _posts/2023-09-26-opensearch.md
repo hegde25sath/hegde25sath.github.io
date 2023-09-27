@@ -84,10 +84,9 @@ Please open an issue if something needs to be phrased better or a section needs 
 
 #### Specifics
 - Interaction with clusters is through REST API - to add new document, get statistics, delete documents, etc. 
-- To add JSON doc to OpenSearch index (i.e. to index the document), HTTP request sent:
+- To add JSON doc to OpenSearch index (i.e. to index the document), HTTP request sent at specific URI:
 
 ```JSON
-PUT https://<host>:<port>/<index-name>/_doc/<document_id>
 {
     "title": "The Wind Rises",
     "release_date": "2013-07-20"
