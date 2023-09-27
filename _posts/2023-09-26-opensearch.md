@@ -3,6 +3,7 @@ title: "Overview and Notes on OpenSearch"
 date: 2023-09-26 21:33:00
 categories: []
 tags: [computing,notes]
+math: true
 ---
 
 ## Purpose 
@@ -105,32 +106,32 @@ Please open an issue if something needs to be phrased better or a section needs 
   
 
 ## References
-https://opensearch.org/docs/latest/about/
+<https://opensearch.org/docs/latest/about/>
 
-https://bonsai.io/blog/what-is-opensearch
+<https://bonsai.io/blog/what-is-opensearch>
 
-https://opensearch.org/docs/latest/im-plugin/ism/index
+<https://opensearch.org/docs/latest/im-plugin/ism/index>
 
-https://opensearch.org/docs/latest/im-plugin/ism/index
+<https://opensearch.org/docs/latest/im-plugin/ism/index>
 
 ## Further Reading
 
 ### Shards
 
-https://opensearch.org/blog/optimize-opensearch-index-shard-size/
+<https://opensearch.org/blog/optimize-opensearch-index-shard-size/>
 
-https://opster.com/guides/opensearch/opensearch-basics/opensearch-shards/
+<https://opster.com/guides/opensearch/opensearch-basics/opensearch-shards/>
 
 ### Indicies
 
-https://opensearch.org/docs/latest/im-plugin/index/
+<https://opensearch.org/docs/latest/im-plugin/index/>
 
-https://opster.com/guides/opensearch/opensearch-basics/opensearch-indexing/
+<https://opster.com/guides/opensearch/opensearch-basics/opensearch-indexing/>
 
-https://opster.com/guides/opensearch/opensearch-basics/opensearch-index/
+<https://opster.com/guides/opensearch/opensearch-basics/opensearch-index/>
 
 ### Other
 
-https://opster.com/guides/opensearch/opensearch-basics/document/
+<https://opster.com/guides/opensearch/opensearch-basics/document/>
 
-https://opster.com/guides/opensearch/opensearch-basics/opensearch-search/
+<https://opster.com/guides/opensearch/opensearch-basics/opensearch-search/>
